@@ -4803,12 +4803,12 @@
   .bxl-imdb:before {
     content: "\ee92";
   }
-  .bxl-instagram:before {
+  /* .bxl-instagram:before {
     content: "\ee93";
   }
   .bxl-instagram-alt:before {
     content: "\ee94";
-  }
+  } */
   .bxl-internet-explorer:before {
     content: "\ee95";
   }
